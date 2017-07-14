@@ -1,0 +1,1 @@
+If you use "myexam.sql" that's enough. But,somehow if you face any problem to use it,you can use "myexam_twice.sql".
