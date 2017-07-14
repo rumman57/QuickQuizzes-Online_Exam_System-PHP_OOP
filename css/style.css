@@ -1,0 +1,189 @@
+.addashmain{
+	background: #658789;
+	border-radius: 7px;
+
+}
+.fn p{
+	font-size:15px;
+}
+.vgn{
+	margin-top: 10px;
+}
+.vgn p{
+	font-size:18px;
+}
+.addashmain h2{
+	text-align: center;
+	color: #c8cece;
+}
+.addashmain h3{
+	margin: 5px;
+	margin-left: 20px;
+	margin-bottom: 0px;
+	color: #cce08e;
+}
+.addashmain h4{
+	margin: 5px;
+	margin-left: 20px;
+	margin-bottom: 0px;
+	text-transform: uppercase;
+	color:#3d3d3d;
+}
+.addashmain p{
+	margin: 5px;
+	margin-left: 20px;
+	margin-bottom: 0px;
+	color: #323232;
+	font-size: 16px;
+}
+.addashmain input{
+	margin-left: 300px;
+}
+.addashmain input[type=submit]{
+	padding: 10px 12px;
+	border-radius: 7px;
+	background:#286090;
+	color: #fff;
+	border:none;
+	margin-left: 3px;
+}
+
+.eachgr{
+	background: #7B96AB;
+	border-radius: 10px;
+}
+.eachgr h2{
+	margin:5px;
+	margin-left: 30px;
+	margin-bottom: 0px;
+	color: #5c4949;
+}
+.eachgr h3{
+	margin:5px;
+	margin-left: 30px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	color: #e3e3e3;
+}
+.eachgr h4{
+	margin:5px;
+	margin-left: 30px;
+	margin-bottom: 10px;
+	color: #3d3d3d;
+	text-transform: uppercase;
+}
+.eachgr p{
+	margin: 5px;
+	margin-left: 20px;
+	margin-bottom: 0px;
+	color: #323232;
+	font-size: 16px;
+}
+.eachgr input[type=submit]{
+	padding: 7px 20px;
+	border: none;
+	border-radius: 10px;
+	margin-left: 5px;
+	box-sizing: border-box;
+	background: #BEBEBE;
+	font-weight: bold;
+
+}
+
+.adgrfs {
+	width:400px !important;
+	height:35px  !important;
+	margin-left:20px !important;
+}
+.hgad{
+	margin-top: 15px;
+}
+.hgad input::-webkit-input-placeholder { /* WebKit browsers */
+  margin-left: 20px;
+  padding: 0px 12px;
+  font-style: italic;
+  font-size: 12px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+.hgad input[type=number]::-moz-placeholder { /* Firefox 19+ */
+  margin-left: 20px;
+  padding: 0px 12px;
+  font-style: italic;
+  font-size: 12px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+.hgad input::-ms-input-placeholder { /* IE 10+ */
+  margin-left: 20px;
+  padding: 0px 12px;
+  font-style: italic;
+  font-size: 12px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+.hgad input::-moz-placeholder { /* Firefox 18- */
+  margin-left: 20px;
+  padding: 0px 12px;
+  font-style: italic;
+  font-size: 12px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+.agb {
+	display: block;
+	margin-top: 25px;
+	width: 300px;
+	margin-left: 20px;
+}
+.cta td{
+	text-align: center;
+	font-size: 16px;
+}
+.esb{
+	width:400px;
+	padding: 10px;
+	font-size: 15px;
+	font-weight: bold;
+	margin-bottom: 30px;
+	margin-top: 15px;
+}
+.esb1{
+	width:200px;
+	padding: 10px;
+	font-size: 15px;
+	font-weight: bold;
+	margin-bottom: 30px;
+	margin-top: 15px;
+}
+.qm{
+	margin-top: 25px;
+	margin-bottom: 20px;
+}
+.htk{
+	height: 275px !important;
+	width: 375px;
+}
+.tim{
+	margin-top: 25px;
+	margin-bottom: -35px;
+}
+.tim h3{
+	
+}
+.logo img{
+	height: 55px;
+	width:70px;
+	display:  inline;
+	margin-top: -10px;
+}
+.logo h1{
+	display: inline;
+	 margin-left: 5px;
+}
+.aboutp p{
+	font-size: 17px;
+}
+.aboutp h2{
+	font-size: 27px;
+}
