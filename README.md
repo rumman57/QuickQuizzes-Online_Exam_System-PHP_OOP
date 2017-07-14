@@ -41,7 +41,7 @@ This is an Online Exam System site built by PHP in OOP way. In this site,you can
 
 14. You can create & manage as many exam groups as you need.
 
-###Who Participates The Exam(Examinees):
+### Who Participates The Exam(Examinees):
 
 1. First you have to "Log In" from 'Test Takes' tab.
 
@@ -59,10 +59,12 @@ This is an Online Exam System site built by PHP in OOP way. In this site,you can
 
 ## Demo Purpose
 
-**For Admin    => Username: rumman & Password: rumman57**
-**For Examinee => Username: rumman & Password: rumman57**
+**For Admin    => Username: rumman & Password: rumman57**  
+**For Examinee => Username: rumman & Password: rumman57**  
 
 
+
+## Site Photos
  <img src="img/readme/exasaf32.jpg"  >
 
  <img src="img/readme/exa.png"  >
